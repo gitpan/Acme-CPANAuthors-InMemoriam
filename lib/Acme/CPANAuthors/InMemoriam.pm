@@ -4,7 +4,7 @@ use warnings;
 
 {
     no strict "vars";
-    $VERSION = "1.00";
+    $VERSION = "1.01";
 }
 
 use Acme::CPANAuthors::Register (
@@ -12,6 +12,7 @@ use Acme::CPANAuthors::Register (
     # Our fallen heroes, may they never be forgotten
 
     'AMORETTE'  => 'Hojung Yoon',
+    'ANDREWF'   => 'Andrew Ford',
     'GMCCAR'    => 'Greg McCarroll',
     'IVORW'     => 'Ivor Williams',
     'NI-S'      => 'Nick Ing-Simmons',
